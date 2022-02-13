@@ -59,7 +59,7 @@ This software is released under the MIT License, see [LICENCE.txt](LICENCE.txt).
 ## Notes
 - This repository is forked from [toio.js](https://github.com/toio/toio.js). To make the repo private temporarily, I duplicated the original repo.
 - The target assignment algorithm uses the Dijkstra algorithm instead of BFS. Therefore, the code is not limited to the grid environment, rather, it can work on graphs with non-uniform edge costs.
-- To convert data from the [unlabeled-MAPF repo](https://kei18.github.io/unlabeled-MAPF), see `notebooks/`. I prepared example codes written in Python (Jupyter Notebook).
+- To convert data from the [tswap repo](https://kei18.github.io/tswap), see `notebooks/`. I prepared example codes written in Python (Jupyter Notebook).
 
 ## Author
 [Keisuke Okumura](https://kei18.github.io) is a Ph.D. student at the Tokyo Institute of Technology, interested in controlling multiple moving agents.
