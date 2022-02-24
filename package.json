@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "toio-exec",
+  "name": "toio-tswap",
   "workspaces": [
     "packages/*",
     "src/*"
   ],
-  "repository": "https://github.com/Kei18/toio-exec.git",
+  "repository": "https://github.com/Kei18/toio-tswap.git",
   "author": "Keisuke Okumura",
   "license": "MIT",
   "scripts": {
